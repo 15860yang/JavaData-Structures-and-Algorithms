@@ -13,7 +13,7 @@ public class QuickSort {
     private static void quickSort(int[] arr, int l, int r) {
         if (r > l) {
             //在这里将随机位置与最后一位置的数交换，就是为了避免数据不均匀的问题而导致算法效率降低
-            swap(arr, l + (int) (Math.random() * (r - l + 1)), r);
+            Base.swap(arr, l + (int) (Math.random() * (r - l + 1)), r);
             //传入需要排序的数组和需要排序的左右边界，因为快排每次排序之后会使数组中此次待排序段最后的数据处于正确的位置
             //而这个变量可能有多个相同的值，所以该方法返回此次排序之后中间相同部分的左右边界所在数组
             int[] p = partition(arr, l, r);
@@ -39,21 +39,14 @@ public class QuickSort {
         while (l < more) {
             //如果左边小于中介数，那就交换最左边两个数，也就是小部分与位置部分的相邻位置交换，小部分位置的边界右移
             if (arr[l] < arr[r]) {
-                swap(arr, ++less, l++);
+                Base.swap(arr, ++less, l++);
             } else if (arr[l] > arr[r]) {
-                swap(arr, --more, l);
+                Base.swap(arr, --more, l);
             } else {
                 l++;
             }
         }
-        swap(arr, more, r);
+        Base.swap(arr, more, r);
         return new int[]{less + 1, more};
-    }
-
-    private static void swap(int[] arr, int i, int j) {
-        int temp;
-        temp = arr[i];
-        arr[i] = arr[j];
-        arr[j] = temp;
     }
 }
