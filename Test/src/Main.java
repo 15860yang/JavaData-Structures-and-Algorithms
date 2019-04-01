@@ -1,7 +1,6 @@
 import java.util.Random;
 
 public class Main {
-
     public static void main(String[] args) {
         Main main = Main.getInstance();
         main.printArray(main.createRandomSizeOfArray(10,10));

@@ -22,6 +22,17 @@ public class QuickSort {
         }
     }
 
+
+    public static void main(String[] args) {
+        int[] arr = new int[]{3,4,4,5,6,5,6,3,4,6,5,3,4};
+
+        int[] s = partition(arr,0,arr.length-1);
+        for (int a :
+                s) {
+            System.out.print(a+" ");
+        }
+    }
+
     /**
      * 每次排序的核心方法
      *
