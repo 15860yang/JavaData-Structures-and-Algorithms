@@ -3,9 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JavaData-Structures-and-Algorithms.iml" filepath="$PROJECT_DIR$/JavaData-Structures-and-Algorithms.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Question/Question.iml" filepath="$PROJECT_DIR$/Question/Question.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Sort/Sort.iml" filepath="$PROJECT_DIR$/Sort/Sort.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Test/Test.iml" filepath="$PROJECT_DIR$/Test/Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SnowMan/SnowMan.iml" filepath="$PROJECT_DIR$/SnowMan/SnowMan.iml" />
     </modules>
   </component>
 </project>
