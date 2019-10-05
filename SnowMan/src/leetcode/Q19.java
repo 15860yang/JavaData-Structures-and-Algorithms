@@ -23,14 +23,4 @@ public class Q19 {
         } else tempNode.next = tempNode.next.next;
         return head;
     }
-
-    public static class ListNode {
-        public int val;
-        public ListNode next;
-
-        public ListNode(int x) {
-            val = x;
-        }
-    }
-
 }
