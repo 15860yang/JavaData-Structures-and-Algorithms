@@ -1,6 +1,5 @@
 package money;
 
-import javafx.util.Pair;
 
 import java.io.*;
 import java.util.HashMap;
