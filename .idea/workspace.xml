@@ -2,21 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="59acfae2-8f35-4682-918c-91b815cd56b3" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/fastjson_1_2_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowMan/libs/fastjson-1.2.7.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowMan/src/Main/Card.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowMan/src/Main/CopyFileText.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowMan/src/Main/FileText.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowMan/src/Main/LsnTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowMan/src/Main/SwingTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowMan/src/Main/cbxTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowMan/src/leetcode/Q39.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SnowMan/src/leetcode/Q40.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SnowMan/src/leetcode/Q41.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SnowMan/SnowMan.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SnowMan/SnowMan.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SnowMan/src/Main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/SnowMan/src/Main/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/SnowMan/Main/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SnowMan/Main/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SnowMan/leetcode/Q37.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SnowMan/leetcode/Q37.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -255,38 +244,38 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state width="2517" height="414" key="GridCell.Tab.0.bottom" timestamp="1602955119249">
+    <state width="2517" height="430" key="GridCell.Tab.0.bottom" timestamp="1602986474986">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="414" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1602955119249" />
-    <state width="2517" height="414" key="GridCell.Tab.0.center" timestamp="1602955119249">
+    <state width="2517" height="430" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1602986474986" />
+    <state width="2517" height="430" key="GridCell.Tab.0.center" timestamp="1602986474986">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="414" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1602955119249" />
-    <state width="2517" height="414" key="GridCell.Tab.0.left" timestamp="1602955119249">
+    <state width="2517" height="430" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1602986474986" />
+    <state width="2517" height="430" key="GridCell.Tab.0.left" timestamp="1602986474985">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="414" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1602955119249" />
-    <state width="2517" height="414" key="GridCell.Tab.0.right" timestamp="1602955119249">
+    <state width="2517" height="430" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1602986474985" />
+    <state width="2517" height="430" key="GridCell.Tab.0.right" timestamp="1602986474986">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="414" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1602955119249" />
-    <state width="2517" height="675" key="GridCell.Tab.1.bottom" timestamp="1602946590092">
+    <state width="2517" height="430" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1602986474986" />
+    <state width="2517" height="375" key="GridCell.Tab.1.bottom" timestamp="1602986415303">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="675" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1602946590092" />
-    <state width="2517" height="675" key="GridCell.Tab.1.center" timestamp="1602946590092">
+    <state width="2517" height="375" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1602986415303" />
+    <state width="2517" height="375" key="GridCell.Tab.1.center" timestamp="1602986415303">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="675" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1602946590092" />
-    <state width="2517" height="675" key="GridCell.Tab.1.left" timestamp="1602946590092">
+    <state width="2517" height="375" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1602986415303" />
+    <state width="2517" height="375" key="GridCell.Tab.1.left" timestamp="1602986415303">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="675" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1602946590092" />
-    <state width="2517" height="675" key="GridCell.Tab.1.right" timestamp="1602946590092">
+    <state width="2517" height="375" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1602986415303" />
+    <state width="2517" height="375" key="GridCell.Tab.1.right" timestamp="1602986415303">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="675" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1602946590092" />
+    <state width="2517" height="375" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1602986415303" />
     <state x="782" y="343" key="SettingsEditor" timestamp="1602944112614">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -339,6 +328,16 @@
           <url>file://$PROJECT_DIR$/SnowMan/src/leetcode/Q34.java</url>
           <line>22</line>
           <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SnowMan/src/Main/Main.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SnowMan/src/Main/Main.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="85" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
